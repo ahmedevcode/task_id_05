@@ -45,6 +45,11 @@ A simple recipe app built using Flutter, utilizing Cubit for state management an
      + Searching recipes by name.
 + Recipe States: Tracks different states of the app, such as loading, adding, and displaying recipes.
 
+# vedio records⏺️
+
+
+https://github.com/user-attachments/assets/70b369cc-c3f5-42e9-b425-4b196e026994
+
 
 
 # UI/UX Design 🎨
