@@ -48,7 +48,10 @@ A simple recipe app built using Flutter, utilizing Cubit for state management an
 # vedio records⏺️
 
 
-https://github.com/user-attachments/assets/70b369cc-c3f5-42e9-b425-4b196e026994
+
+
+https://github.com/user-attachments/assets/af5fb550-db82-432c-aaba-3ec75aeca04e
+
 
 
 
